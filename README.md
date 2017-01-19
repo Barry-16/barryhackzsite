@@ -1,7 +1,7 @@
 <!-- Just fill in the brackets -->
 # [PROJECT NAME] | [SLOGAN]
 
-![release](https://img.shields.io/badge/release-v0.0-red.svg?style=flat-square)
+[![release](https://img.shields.io/badge/release-v0.0-red.svg?style=flat-square)]()
 
 This is a basic blank README for new projects.
 
